@@ -1,0 +1,5 @@
+This is an abstract Maven POM used for a standard Primefaces + Webflow + Spring + Hibernate project.
+
+We've provided it for our own reuse and consistency.
+
+Feel free to use and improve it.
