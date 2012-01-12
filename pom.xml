@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>br.com.insula</groupId>
 		<artifactId>spring-hibernate-pom</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0.1</version>
 	</parent>
 	<groupId>br.com.insula</groupId>
 	<artifactId>primefaces-webflow-spring-hibernate-pom</artifactId>
@@ -13,9 +13,14 @@
 	<version>1.0-SNAPSHOT</version>
 	<name>primefaces-webflow-spring-hibernate-pom</name>
 	<description>Parent POM for a Primefaces-Webflow-Spring-Hibernate project</description>
+	<scm>
+		<connection>scm:git:git@github.com:insula/primefaces-webflow-spring-hibernate-pom.git</connection>
+		<url>scm:git:git@github.com:insula/primefaces-webflow-spring-hibernate-pom.git</url>
+		<developerConnection>scm:git:git@github.com:insula/primefaces-webflow-spring-hibernate-pom.git</developerConnection>
+	</scm>
 	<properties>
 		<mojarra.version>2.0.6</mojarra.version>
-		<primefaces.version>3.0.RC2</primefaces.version>
+		<primefaces.version>3.0</primefaces.version>
 		<spring-webflow.version>2.3.0.RELEASE</spring-webflow.version>
 	</properties>
 	<dependencies>
