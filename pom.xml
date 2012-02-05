@@ -9,7 +9,7 @@
 	<groupId>br.com.insula</groupId>
 	<artifactId>primefaces-webflow-spring-hibernate-pom</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.3</version>
 	<name>primefaces-webflow-spring-hibernate-pom</name>
 	<description>Parent POM for a Primefaces-Webflow-Spring-Hibernate project</description>
 	<scm>
