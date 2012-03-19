@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>br.com.insula</groupId>
 		<artifactId>spring-hibernate-pom</artifactId>
-		<version>1.0.5</version>
+		<version>1.0.6</version>
 	</parent>
 	<groupId>br.com.insula</groupId>
 	<artifactId>primefaces-webflow-spring-hibernate-pom</artifactId>
@@ -19,7 +19,7 @@
 	</scm>
 	<properties>
 		<mojarra.version>2.0.6</mojarra.version>
-		<primefaces.version>3.1.1</primefaces.version>
+		<primefaces.version>3.2</primefaces.version>
 		<spring-webflow.version>2.3.0.RELEASE</spring-webflow.version>
 	</properties>
 	<dependencies>
